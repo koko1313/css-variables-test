@@ -1,0 +1,19 @@
+/* import variables css */
+@import url(variables.css);
+
+html, body {
+    background-color: var(--secondary-color);
+}
+
+.main {
+    background-color: var(--primary-color);
+    max-width: 800px;
+    margin: auto;
+    color: var(--text-primary);
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+p {
+    color: var(--text-secondary);
+}

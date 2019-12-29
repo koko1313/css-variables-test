@@ -1,0 +1,7 @@
+/* declare variables */
+:root {
+    --primary-color: blue;
+    --secondary-color: lightblue;
+    --text-primary: white;
+    --text-secondary: #ccc;
+}
